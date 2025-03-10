@@ -34,4 +34,9 @@ addForm.addEventListener('submit', async (e)=>{
        getPromos()
 })
 
+function direbonjour(params) {
+    console.log("Salut");
+    
+}
+
 getPromos()

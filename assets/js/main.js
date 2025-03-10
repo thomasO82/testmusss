@@ -34,4 +34,10 @@ addForm.addEventListener('submit', async (e)=>{
        getPromos()
 })
 
+
+function create(params) {
+    console.log("Voila mon etudiant");
+    
+}
+
 getPromos()
